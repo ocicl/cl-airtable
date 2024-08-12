@@ -1,0 +1,9 @@
+* cl-airtable
+
+Common Lisp client for Airtable
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/qubit55/cl-airtable.git |
+| commit  | 70eb73a                                        |
+| systems | cl-airtable                                    |
+|---------+------------------------------------------------|
