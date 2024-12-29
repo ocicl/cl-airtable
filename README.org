@@ -4,6 +4,6 @@ Common Lisp client for Airtable
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/qubit55/cl-airtable.git |
-| commit  | 36d069f                                        |
+| commit  | e0f7d49                                        |
 | systems | cl-airtable                                    |
 |---------+------------------------------------------------|
